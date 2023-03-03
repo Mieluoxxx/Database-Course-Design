@@ -1,0 +1,10 @@
+C:\Users\weiyi\Documents\GitHub\Database-Course-Design\target\debug\deps\migrations_internals-79bc5bb76e44a571.rmeta: C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\migrations_internals-1.4.1\src\lib.rs C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\migrations_internals-1.4.1\src\connection.rs C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\migrations_internals-1.4.1\src\migration.rs C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\migrations_internals-1.4.1\src\schema.rs
+
+C:\Users\weiyi\Documents\GitHub\Database-Course-Design\target\debug\deps\libmigrations_internals-79bc5bb76e44a571.rlib: C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\migrations_internals-1.4.1\src\lib.rs C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\migrations_internals-1.4.1\src\connection.rs C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\migrations_internals-1.4.1\src\migration.rs C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\migrations_internals-1.4.1\src\schema.rs
+
+C:\Users\weiyi\Documents\GitHub\Database-Course-Design\target\debug\deps\migrations_internals-79bc5bb76e44a571.d: C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\migrations_internals-1.4.1\src\lib.rs C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\migrations_internals-1.4.1\src\connection.rs C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\migrations_internals-1.4.1\src\migration.rs C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\migrations_internals-1.4.1\src\schema.rs
+
+C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\migrations_internals-1.4.1\src\lib.rs:
+C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\migrations_internals-1.4.1\src\connection.rs:
+C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\migrations_internals-1.4.1\src\migration.rs:
+C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\migrations_internals-1.4.1\src\schema.rs:

@@ -1,0 +1,12 @@
+C:\Users\weiyi\Documents\GitHub\Database-Course-Design\target\debug\deps\uuid-faedad0cac7c3eb6.rmeta: C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.6.5\src\lib.rs C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.6.5\src\prelude.rs C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.6.5\src\adapter.rs C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.6.5\src\core_support.rs C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.6.5\src\serde_support.rs C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.6.5\src\std_support.rs
+
+C:\Users\weiyi\Documents\GitHub\Database-Course-Design\target\debug\deps\libuuid-faedad0cac7c3eb6.rlib: C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.6.5\src\lib.rs C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.6.5\src\prelude.rs C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.6.5\src\adapter.rs C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.6.5\src\core_support.rs C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.6.5\src\serde_support.rs C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.6.5\src\std_support.rs
+
+C:\Users\weiyi\Documents\GitHub\Database-Course-Design\target\debug\deps\uuid-faedad0cac7c3eb6.d: C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.6.5\src\lib.rs C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.6.5\src\prelude.rs C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.6.5\src\adapter.rs C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.6.5\src\core_support.rs C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.6.5\src\serde_support.rs C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.6.5\src\std_support.rs
+
+C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.6.5\src\lib.rs:
+C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.6.5\src\prelude.rs:
+C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.6.5\src\adapter.rs:
+C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.6.5\src\core_support.rs:
+C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.6.5\src\serde_support.rs:
+C:\Users\weiyi\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.6.5\src\std_support.rs:
