@@ -1,12 +1,12 @@
 use crate::error_handler::CustomError;
-use diesel::pg::pgConnection;
+use diesel::pg::PgConnection;
 use diesel::r2d2::ConnectionManager;
 use lazy_static::lazy_static;
 use r2d2;
-use std::new;
-use diesel::embed_migrations;
+use std::env;
+use diesel_migrations::embed_migrations;
 
-type Pool = r2d2::Pool<ConnectionMananger<PgConnection>>;
+type Pool = r2d2::Pool<ConnectionManager<PgConnection>>;
 pub type DbConnection = r2d2::PooledConnection<ConnectionManager<PgConnection>>;
 
 embed_migrations!();
@@ -20,13 +20,13 @@ lazy_static!{
 }
 
 pub fn connection() -> Result<DbConnection,CustomError>{
-    POOL.get().amp_err(|e| CustomError::new(500,
+    POOL.get().map_err(|e| CustomError::new(500,
                     format!("Failed to get DB connection from pool:{}",e)
     ))
 }
 
 pub fn init(){
     lazy_static::initialize(&POOL);
-    let conn = connection().expect("Failed to get DB connection from pool");;
+    let conn = connection().expect("Failed to get DB connection from pool");
     embedded_migrations::run(&conn).unwrap();
 }

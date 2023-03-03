@@ -1,7 +1,7 @@
 use crate::db;
 use crate::error_handler::CustomError;
 use crate::schema::employees;
-use disel::prelude::*;
+use diesel::prelude::*;
 use serde::{Serialize,Deserialize};
 
 #[derive(Serialize,Deserialize,AsChangeset,Insertable)]
@@ -53,7 +53,7 @@ impl Employees{
 
     pub fn delete(id:i32)->Result<usize,CustomError>{
         let conn = db::connection()?;
-        let res = diesel::delete(employees::.filter(employees::id.eq(id)))
+        let res = diesel::delete(employees::table.filter(employees::id.eq(id)))
             .execute(&conn)?;
         Ok(res)
     }

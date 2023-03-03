@@ -6,7 +6,7 @@ use diesel::result::Error as DieselError;
 use serde_json::json;
 
 
-#[derive(Debug,Deserialize)]
+#[derive(Debug, Deserialize)]
 pub struct CustomError{                // 自定义错误
     pub error_status_code:u16,
     pub error_message:String
